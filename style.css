@@ -16,14 +16,14 @@ div#titulo{
 }
 
 img{
-    width: 800px;
+    width: 100px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px lightpink;
 }
 
 
 img#foto{
-    width: 600px;
+    width: 100px;
     border-radius: 10px;
 }
 
