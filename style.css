@@ -20,10 +20,9 @@ div#titulo{
 }
 
 img{
-    width: 300px;
+    width: 600px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px lightpink;
-    margin: auto;
 }
 
 
