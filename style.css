@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body{
+    text-align: center;
+    background-color: rgb(236, 153, 167);
+    font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
+}
+
+div#titulo{
+    background-color: lightpink;
+    margin: auto;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px black;
+}
+
+img{
+    width: 800px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightpink;
+}
+
+
+img#foto{
+    width: 600px;
+    border-radius: 10px;
+}
+
+
+div#texto{
+    margin: auto;
+    background-color: rgba(255, 0, 179, 0.233);
+    border-radius: 10px;
+    width: 370px;
+    text-align: center;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.719);
+
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    padding-left: 7px;
+    
+}
+
+h2#frase{
+    margin: 30px;
+    border-radius: 10px;
+}
