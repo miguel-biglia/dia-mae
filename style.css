@@ -20,14 +20,14 @@ div#titulo{
 }
 
 img{
-    width: 1000px;
+    width: 400px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px lightpink;
 }
 
 
 img#foto{
-    width: 100px;
+    width: 500px;
     border-radius: 10px;
 }
 
